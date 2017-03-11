@@ -1,0 +1,51 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    color: skyblue;
+    text-align: justify;
+    font-size: 1.2em;
+}
+
+h1 {
+    margin-top: 20px;
+    text-align: center;
+}
+
+ul li {
+    color: cadetblue;
+}
+
+li {
+    font-family: Monoca;
+}
+
+h2 {
+    color: forestgreen;
+    padding-bottom: 5px;
+    border-bottom: 1px dotted #CCCCCC;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: firebrick;
+}
+
+#header {
+    padding-right: inherit;
+    border-bottom: 2px dotted yellowgreen;
+    text-align: center;
+}
+
+#st {
+    margin-top: 2px;
+    padding-top: 2px;
+    font-size: 1.6em;
+    text-shadow: 2px 2px 2px lightcoral;
+    color: red;
+}
